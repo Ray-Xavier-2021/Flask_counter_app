@@ -4,7 +4,7 @@ This project was built by me using Python and Flask. It will be added to my port
 
 [Live Deployment](https://flask-counter-app.ray-xavier-2021.repl.co/)
 
-![Flask_counter_app](Pictures/Screenshots/flask_counter_app.png)
+![flask_counter_app](https://user-images.githubusercontent.com/78431899/198149239-7550a42f-d61a-45b5-83bb-e8fb5c34556d.png)
 
 
 ## Technologies Used`
